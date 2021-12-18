@@ -5,7 +5,8 @@
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">
+<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">
 </p>
 <br>
 
@@ -51,3 +52,5 @@
 <br>
 <hr>
 <br>
+
+## Work in progress 🚧 ...............
