@@ -14,14 +14,14 @@
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-<br>
+
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
-</p><br>
+</p>
 <hr>
 <br>
 
@@ -33,7 +33,7 @@
 <p align='center'>
 <h3>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h3>
 </p>
-<br>
+
 <hr>
 <br>
 
@@ -42,7 +42,7 @@
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
 <p>
-<br>
+
 <hr>
 <br>
 
@@ -50,7 +50,7 @@
 <p align='center'>
 <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
 </p>
-<br>
+
 <hr>
 <br>
 
@@ -59,6 +59,6 @@
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
 </p>
-<br>
+
 <hr>
 
