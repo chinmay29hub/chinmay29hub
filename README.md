@@ -37,32 +37,6 @@
 <hr>
 <br>
 
-## Github Contributions 📈
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
-
-## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
-
-## Waka Time Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
-</p>
-
-<hr>
-<br>
-
 ## Technology Stack 💻
 
 <p align='center'>
@@ -131,4 +105,85 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
+<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+</a>
 </p>
+<br>
+
+### Hosting 🌎 :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+<br>
+
+### Server 🗃️ :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+</p>
+<br>
+
+### Database 💾 :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<br>
+
+### ML/DL 🤖/🧠 :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</p>
+<br>
+
+### Operating Systems 🐧 :
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+<hr>
+<br>
+
+## Github Contributions 📈
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<p>
+
+<hr>
+<br>
+
+## Just a snake eating my contributions 🐍
+<p align='center'>
+<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br>
+
+## Waka Time Stats 🕰
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
+</p>
+
+<hr>
+<br>
