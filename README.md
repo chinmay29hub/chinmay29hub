@@ -54,8 +54,9 @@
 <hr>
 <br>
 
-## Work in progress 🚧 ...............
-
+## Waka Time Stats 🕰
+<p align='center'>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+</p>
