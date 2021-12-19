@@ -125,4 +125,6 @@
 <a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://www.instagram.com/chinmay29hub" target="_blank">
+<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
