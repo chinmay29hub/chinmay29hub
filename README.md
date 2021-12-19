@@ -55,8 +55,10 @@
 <br>
 
 ## Waka Time Stats 🕰
+<br>
 <p align='center'>
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
 </p>
+<br>
+<hr>
+
