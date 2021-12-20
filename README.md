@@ -7,7 +7,7 @@
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
 <br>
 
@@ -137,6 +137,9 @@
 <br>
 
 ### ML/DL 🤖/🧠 :
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
