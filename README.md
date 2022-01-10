@@ -205,13 +205,21 @@
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
 </p>
+<hr>
+<br>
+
+## chinmay29hub 2021 📅:
+<br>
+<p align='center'>
+<img src="chinmay29hub.gif">
+</p>
 
 <hr>
 <br>
 
 ## Dynamic Quotes 📜:
 <br>
-<p align="center">
+<p align='center'>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 <hr>
