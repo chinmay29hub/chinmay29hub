@@ -12,8 +12,22 @@
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge">
 </p>
+<br>
+
+## npm package - Profile card 📦 
+<br>
+
+> Run the following command to know more about me
+
+<br> 
+
+```
+npx chinmay29hub
+```
+
+<hr>
 <br>
 
 ## Github Contribution Streak 🔥 
