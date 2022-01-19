@@ -216,9 +216,10 @@ npx chinmay29hub
 
 ## Waka Time Stats 🕰
 <br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
-</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <hr>
 <br>
 
