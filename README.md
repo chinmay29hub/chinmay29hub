@@ -318,6 +318,14 @@ PHP                      3 repos             ██░░░░░░░░░�
 <hr>
 <br>
 
+## Trophies 🏆:
+<br>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+</p>
+<hr>
+<br>
+
 ## chinmay29hub 2021 📅:
 <br>
 <p align='center'>
