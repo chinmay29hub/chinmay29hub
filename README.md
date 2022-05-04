@@ -235,8 +235,6 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 185 Contributions in the Year 2022
@@ -306,7 +304,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2022 16:39:30 UTC
+ Last Updated on 04/05/2022 18:30:22 UTC
 <!--END_SECTION:waka-->
 
 <hr>
