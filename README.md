@@ -320,12 +320,16 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 ## Recent Articles on Medium 📚 :
 <br>
-<p align='center'>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/0" alt="what is ssh and how to use it on ubuntu?">
+<p>
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/0" alt="How to use pyscript within vscode?">
 </p>
 <br>
-<p align='center'>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/1" alt="ls command in linux">
+<p>
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/1" alt="what is ssh and how to use it on ubuntu?">
+</p>
+<br>
+<p>
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/2" alt="ls command in linux">
 </p>
 
 <hr>
