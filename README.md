@@ -340,7 +340,6 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 ## Articles On linuxfordevices.com 🐧 :
 <br>
-<p align='center'>
 
 | Clickable Titles |
 | --- |
@@ -354,7 +353,15 @@ HTML                     3 repos             ██░░░░░░░░░�
 | [Settings To Make Your KDE Desktop Stunning 2022](https://www.linuxfordevices.com/tutorials/linux/make-kde-desktop-stunning) |
 | [Draw On Your Linux Screen With These Great Tools 2022](https://www.linuxfordevices.com/tutorials/linux/tools-to-draw-on-linux-screen) |
 
-</p>
+<hr>
+<br>
+
+## Articles on codeforgeek.com 💻 :
+<br>
+
+| Clickable Titles |
+| --- |
+| [Upgrade Your Raspberry Pi to a Powerful Web Server](https://codeforgeek.com/raspberry-pi-webserver/) |
 
 <hr>
 <br>
