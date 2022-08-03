@@ -341,8 +341,12 @@ HTML                     3 repos             ██░░░░░░░░░�
 ## Articles On linuxfordevices.com 🐧 :
 <br>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 <hr>
 <br>
