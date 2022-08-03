@@ -338,6 +338,15 @@ HTML                     3 repos             ██░░░░░░░░░�
 <hr>
 <br>
 
+## Articles On linuxfordevices.com 🐧 :
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<hr>
+<br>
+
 ## chinmay29hub 2021 📅:
 <br>
 <p align='center'>
