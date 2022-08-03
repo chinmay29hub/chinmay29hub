@@ -190,7 +190,7 @@ npx chinmay29hub
 ### IOT 🔌 :
 <br>
 <p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="260" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
