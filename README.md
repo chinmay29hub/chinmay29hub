@@ -342,10 +342,17 @@ HTML                     3 repos             ██░░░░░░░░░�
 <br>
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Clickable Titles |
+| --- |
+| [Cool Terminal Progress Bar – Python and Bash](https://www.linuxfordevices.com/tutorials/linux/terminal-progress-bar-python-bash) |
+| [Top 10 Amazing Raspberry Pi Projects 2022](https://www.linuxfordevices.com/tutorials/linux/top-raspberry-pi-projects) |
+| [9 Best Linux Distros For Programming](https://www.linuxfordevices.com/tutorials/linux/best-linux-distros-for-programming) |
+| [Kubuntu vs Ubuntu – Which is the best 2022?](https://www.linuxfordevices.com/tutorials/ubuntu/kubuntu-vs-ubuntu) |
+| [Make Your Arch Linux Terminal Awesome 2022](https://www.linuxfordevices.com/tutorials/linux/make-arch-terminal-awesome) |
+| [9 Best Widgets For KDE Plasma](https://www.linuxfordevices.com/tutorials/linux/best-widgets-for-kde-plasma) |
+| [Best Way To Connect Raspberry Pi Remotely 2022](https://www.linuxfordevices.com/tutorials/linux/connect-raspberry-pi-remotely) |
+| [Settings To Make Your KDE Desktop Stunning 2022](https://www.linuxfordevices.com/tutorials/linux/make-kde-desktop-stunning) |
+| [Draw On Your Linux Screen With These Great Tools 2022](https://www.linuxfordevices.com/tutorials/linux/tools-to-draw-on-linux-screen) |
 
 
 <hr>
