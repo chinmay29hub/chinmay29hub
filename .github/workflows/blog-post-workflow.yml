@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Your RSS feed url
+          feed_list: "https://www.linuxfordevices.com/author/Chinmay"
+          # Maximum number of posts you want
+          max_post_count: 5
