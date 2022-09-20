@@ -73,6 +73,7 @@ npx chinmay29hub
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
@@ -339,6 +340,11 @@ HTML                     3 repos             ██░░░░░░░░░�
 <p>
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/2" alt="ls command in linux">
 </p>
+<br>
+<p>
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/3" alt="ls command in linux">
+</p>
+<br>
 
 <hr>
 <br>
@@ -357,6 +363,10 @@ HTML                     3 repos             ██░░░░░░░░░�
 | [Best Way To Connect Raspberry Pi Remotely 2022](https://www.linuxfordevices.com/tutorials/linux/connect-raspberry-pi-remotely) |
 | [Settings To Make Your KDE Desktop Stunning 2022](https://www.linuxfordevices.com/tutorials/linux/make-kde-desktop-stunning) |
 | [Draw On Your Linux Screen With These Great Tools 2022](https://www.linuxfordevices.com/tutorials/linux/tools-to-draw-on-linux-screen) |
+| [Best Way To Execute Linux Commands using Python](https://www.linuxfordevices.com/tutorials/linux/execute-linux-commands-python) |
+| [How to download and Play Among us On Linux?](https://www.linuxfordevices.com/tutorials/linux/among-us-on-linux) |
+| [Make Your Bash Shell Beautiful 2022](https://www.linuxfordevices.com/tutorials/linux/beautify-bash-shell) |
+| [A great way to use Ubuntu Server 22.04 on Virtual Box](https://www.linuxfordevices.com/tutorials/linux/ubuntu-server-on-virtual-box) |
 
 <hr>
 <br>
