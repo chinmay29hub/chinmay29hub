@@ -236,13 +236,13 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 181.3 kB Used in GitHub's Storage 
+> 📦 181.5 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2023
+> 🏆 234 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -310,7 +310,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2023 14:19:40 UTC
+ Last Updated on 16/03/2023 16:31:41 UTC
 <!--END_SECTION:waka-->
 
 <hr>
