@@ -236,7 +236,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -246,9 +246,9 @@ npx chinmay29hub
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -311,7 +311,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 02:39:47 UTC
+ Last Updated on 17/03/2023 04:24:35 UTC
 <!--END_SECTION:waka-->
 
 <hr>
