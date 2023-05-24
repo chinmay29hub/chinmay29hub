@@ -236,7 +236,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -277,16 +277,17 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 hr 32 mins        █████████████████████████   98.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Gedit                    1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -302,7 +303,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 20:19:34 UTC
+ Last Updated on 24/05/2023 22:18:23 UTC
 <!--END_SECTION:waka-->
 
 <hr>
