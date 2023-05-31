@@ -277,17 +277,16 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     1 hr 32 mins        █████████████████████████   98.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Gedit                    1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -303,7 +302,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2023 20:19:18 UTC
+ Last Updated on 31/05/2023 22:18:10 UTC
 <!--END_SECTION:waka-->
 
 <hr>
