@@ -240,7 +240,7 @@ npx chinmay29hub
 
 **🐱 My GitHub Data** 
 
-> 📦 301.9 kB Used in GitHub's Storage 
+> 📦 302.0 kB Used in GitHub's Storage 
  > 
 > 🏆 389 Contributions in the Year 2023
  > 
@@ -277,16 +277,18 @@ Sunday                   167 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     33 mins             ████████████████████████░   95.88 % 
+SSH Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Gedit                    33 mins             ████████████████████████░   95.88 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -302,7 +304,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2023 18:23:46 UTC
+ Last Updated on 12/06/2023 22:18:24 UTC
 <!--END_SECTION:waka-->
 
 <hr>
