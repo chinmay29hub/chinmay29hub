@@ -236,7 +236,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -308,7 +308,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2023 18:23:45 UTC
+ Last Updated on 22/06/2023 20:23:04 UTC
 <!--END_SECTION:waka-->
 
 <hr>
