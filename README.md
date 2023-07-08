@@ -240,11 +240,11 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 301.1 kB Used in GitHub's Storage 
+> 📦 301.2 kB Used in GitHub's Storage 
  > 
 > 🏆 413 Contributions in the Year 2023
  > 
@@ -281,16 +281,16 @@ Sunday                   173 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Gedit                    3 mins              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -306,7 +306,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2023 20:21:04 UTC
+ Last Updated on 08/07/2023 22:19:17 UTC
 <!--END_SECTION:waka-->
 
 <hr>
