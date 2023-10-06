@@ -240,7 +240,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -281,16 +281,21 @@ Sunday                   686 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             ██████████░░░░░░░░░░░░░░░   40.48 % 
+GDScript                 26 mins             █████████░░░░░░░░░░░░░░░░   37.70 % 
+JSON                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+C#                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Polyglot-Quest---major   48 mins             █████████████████░░░░░░░░   69.33 % 
+C#                       15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+object-detection-kids    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -306,7 +311,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2023 20:20:31 UTC
+ Last Updated on 06/10/2023 22:18:18 UTC
 <!--END_SECTION:waka-->
 
 <hr>
