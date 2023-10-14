@@ -281,19 +281,16 @@ Sunday                   686 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-object-detection-kids    21 mins             ██████████████░░░░░░░░░░░   54.22 % 
-Polyglot-Quest---major   8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-the_game                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-hackathon                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -309,7 +306,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2023 20:19:12 UTC
+ Last Updated on 14/10/2023 22:17:34 UTC
 <!--END_SECTION:waka-->
 
 <hr>
