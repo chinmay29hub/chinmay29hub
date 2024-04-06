@@ -244,7 +244,7 @@ npx chinmay29hub
 
 **🐱 My GitHub Data** 
 
-> 📦 418.4 kB Used in GitHub's Storage 
+> 📦 418.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -279,19 +279,16 @@ Sunday                   1220 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     27 mins             ███████████████████░░░░░░   77.77 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-this-fucking-angular     35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -307,7 +304,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2024 20:22:48 UTC
+ Last Updated on 06/04/2024 22:20:23 UTC
 <!--END_SECTION:waka-->
 
 <hr>
