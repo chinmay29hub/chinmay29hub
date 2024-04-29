@@ -250,9 +250,9 @@ npx chinmay29hub
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 62 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -306,7 +306,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 06:29:23 UTC
+ Last Updated on 29/04/2024 08:29:28 UTC
 <!--END_SECTION:waka-->
 
 <hr>
