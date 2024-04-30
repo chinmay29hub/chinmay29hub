@@ -246,8 +246,6 @@ npx chinmay29hub
 
 > 📦 420.4 kB Used in GitHub's Storage 
  > 
-> 🏆 270 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -306,7 +304,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2024 10:24:27 UTC
+ Last Updated on 30/04/2024 12:38:58 UTC
 <!--END_SECTION:waka-->
 
 <hr>
