@@ -246,8 +246,6 @@ npx chinmay29hub
 
 > 📦 450.3 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -309,7 +307,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 12:45:26 UTC
+ Last Updated on 28/09/2024 14:24:12 UTC
 <!--END_SECTION:waka-->
 
 <hr>
