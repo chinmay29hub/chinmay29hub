@@ -244,9 +244,7 @@ npx chinmay29hub
 
 **🐱 My GitHub Data** 
 
-> 📦 450.9 kB Used in GitHub's Storage 
- > 
-> 🏆 176 Contributions in the Year 2024
+> 📦 450.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -306,7 +304,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2024 10:27:40 UTC
+ Last Updated on 12/10/2024 12:45:26 UTC
 <!--END_SECTION:waka-->
 
 <hr>
