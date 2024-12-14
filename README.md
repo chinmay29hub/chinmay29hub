@@ -240,7 +240,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -281,16 +281,20 @@ Sunday                   1460 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   34 mins             ████████████████░░░░░░░░░   64.23 % 
+YAML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Git Config               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+email-verify             54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -306,7 +310,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 18:34:36 UTC
+ Last Updated on 14/12/2024 20:29:05 UTC
 <!--END_SECTION:waka-->
 
 <hr>
