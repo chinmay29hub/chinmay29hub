@@ -240,7 +240,7 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -314,7 +314,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2025 12:49:20 UTC
+ Last Updated on 02/01/2025 14:25:25 UTC
 <!--END_SECTION:waka-->
 
 <hr>
