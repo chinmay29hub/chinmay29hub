@@ -240,13 +240,11 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 457.7 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -313,7 +311,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2025 16:29:02 UTC
+ Last Updated on 19/01/2025 18:31:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
