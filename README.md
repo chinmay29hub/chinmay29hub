@@ -281,18 +281,16 @@ Sunday                   1463 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     18 mins             ████████████████░░░░░░░░░   62.45 % 
-PHP                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-CSS                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-E-Commerce               29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -308,7 +306,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2025 18:30:54 UTC
+ Last Updated on 01/02/2025 20:27:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
