@@ -244,7 +244,7 @@ npx chinmay29hub
 
 **🐱 My GitHub Data** 
 
-> 📦 460.0 kB Used in GitHub's Storage 
+> 📦 459.9 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2025
  > 
@@ -281,16 +281,16 @@ Sunday                   1463 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-this-fucking-node.js     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -306,7 +306,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 18:37:34 UTC
+ Last Updated on 25/03/2025 20:30:40 UTC
 <!--END_SECTION:waka-->
 
 <hr>
