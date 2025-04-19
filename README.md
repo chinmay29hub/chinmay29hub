@@ -95,14 +95,6 @@ npx chinmay29hub
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
-<img src="">&nbsp;&nbsp;
 </p>
 <br>
 
