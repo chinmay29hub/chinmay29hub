@@ -238,7 +238,21 @@ npx chinmay29hub
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </p>
 
 <hr>
