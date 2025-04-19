@@ -424,7 +424,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ## Dynamic Quotes 📜:
 <br>
 <p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true">
 </p>
 <hr>
 <br>
