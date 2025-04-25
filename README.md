@@ -1,6 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
+
+<p align='center'><img src="https://chinmay29hub-haiku-readme.vercel.app//api?theme=catppuccin_mocha&type=horizontal&border=true&t=1745563782185"></p>
+
+> [Add Similar SVG's To Your Profile](https://github.com/chinmay29hub/haiku-readme)
+
+<hr>
+<br>
+
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Chinmay+Sonawane;Software+Developer+%7C+Tech+Explorer;2x+Hackathon+Winner+%7C+Open+Source;Writing+about+Linux+and+FOSS;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40chinmay29hub">
