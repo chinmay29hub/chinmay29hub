@@ -276,7 +276,7 @@ npx chinmay29hub
 
 > 📦 473.1 kB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2025
+> 🏆 308 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -284,45 +284,6 @@ npx chinmay29hub
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1830 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌆 Daytime                3526 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                3093 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌙 Night                  756 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   918 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Tuesday                  1660 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Wednesday                859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Thursday                 977 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Friday                   497 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Saturday                 2679 commits        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Sunday                   1615 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -336,7 +297,7 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 01:33:22 UTC
+ Last Updated on 24/08/2025 01:30:21 UTC
 <!--END_SECTION:waka-->
 
 <hr>
