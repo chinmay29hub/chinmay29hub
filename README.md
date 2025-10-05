@@ -270,15 +270,17 @@ npx chinmay29hub
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2035%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 474.3 kB Used in GitHub's Storage 
+> 📦 475.4 kB Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2025
+> 🏆 369 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 31 Private Repositories 
  > 
@@ -295,7 +297,7 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:26:12 UTC
+ Last Updated on 05/10/2025 01:25:10 UTC
 <!--END_SECTION:waka-->
 
 <hr>
