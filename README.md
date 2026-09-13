@@ -274,30 +274,30 @@ npx chinmay29hub
 
 **🐱 My GitHub Data** 
 
-> 📦 518.7 kB Used in GitHub's Storage 
+> 📦 518.8 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 70 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               39 repos            ██████████░░░░░░░░░░░░░░░   39.00 % 
-Python                   28 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript               39 repos            ██████████░░░░░░░░░░░░░░░   38.61 % 
+Python                   28 repos            ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 02:56:56 UTC
+ Last Updated on 13/09/2026 03:08:03 UTC
 <!--END_SECTION:waka-->
 
 <hr>
